@@ -37,7 +37,7 @@ class Plant {
         rating: 4.5,
         humidity: 34,
         temperature: '23 - 34',
-        imageURL: 'assets/images/plant-one.png',
+        imageURL: 'assets/images/plant.png',
         isFavorated: true,
         decription:
         'This plant is one of the best plant. It grows in most of the regions in the world and can survive'
@@ -52,7 +52,7 @@ class Plant {
         rating: 4.8,
         humidity: 56,
         temperature: '19 - 22',
-        imageURL: 'assets/images/plant-two.png',
+        imageURL: 'assets/images/spider-plant.png',
         isFavorated: false,
         decription:
         'This plant is one of the best plant. It grows in most of the regions in the world and can survive'
@@ -67,7 +67,7 @@ class Plant {
         rating: 4.7,
         humidity: 34,
         temperature: '22 - 25',
-        imageURL: 'assets/images/plant-three.png',
+        imageURL: 'assets/images/succulent.png',
         isFavorated: false,
         decription:
         'This plant is one of the best plant. It grows in most of the regions in the world and can survive'
@@ -82,7 +82,7 @@ class Plant {
         rating: 4.5,
         humidity: 35,
         temperature: '23 - 28',
-        imageURL: 'assets/images/plant-one.png',
+        imageURL: 'assets/images/plant.png',
         isFavorated: false,
         decription:
         'This plant is one of the best plant. It grows in most of the regions in the world and can survive'
@@ -97,7 +97,7 @@ class Plant {
         rating: 4.1,
         humidity: 66,
         temperature: '12 - 16',
-        imageURL: 'assets/images/plant-four.png',
+        imageURL: 'assets/images/plant.png',
         isFavorated: true,
         decription:
         'This plant is one of the best plant. It grows in most of the regions in the world and can survive'
@@ -112,7 +112,7 @@ class Plant {
         rating: 4.4,
         humidity: 36,
         temperature: '15 - 18',
-        imageURL: 'assets/images/plant-five.png',
+        imageURL: 'assets/images/plant.png',
         isFavorated: false,
         decription:
         'This plant is one of the best plant. It grows in most of the regions in the world and can survive'
@@ -127,7 +127,7 @@ class Plant {
         rating: 4.2,
         humidity: 46,
         temperature: '23 - 26',
-        imageURL: 'assets/images/plant-six.png',
+        imageURL: 'assets/images/plant.png',
         isFavorated: false,
         decription:
         'This plant is one of the best plant. It grows in most of the regions in the world and can survive'
@@ -142,7 +142,7 @@ class Plant {
         rating: 4.5,
         humidity: 34,
         temperature: '21 - 24',
-        imageURL: 'assets/images/plant-seven.png',
+        imageURL: 'assets/images/plant.png',
         isFavorated: false,
         decription:
         'This plant is one of the best plant. It grows in most of the regions in the world and can survive'
@@ -157,7 +157,7 @@ class Plant {
         rating: 4.7,
         humidity: 46,
         temperature: '21 - 25',
-        imageURL: 'assets/images/plant-eight.png',
+        imageURL: 'assets/images/plant.png',
         isFavorated: false,
         decription:
         'This plant is one of the best plant. It grows in most of the regions in the world and can survive'

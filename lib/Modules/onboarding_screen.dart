@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:planet_ui/Modules/login_screen.dart';
+import 'package:planet_ui/Modules/root_screen.dart';
 import 'package:planet_ui/Shared/Components/constants.dart';
 
 class OnboardingScreen extends StatefulWidget {
@@ -87,7 +88,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                       }
                     } else {
                       Navigator.pushReplacement(context,
-                          MaterialPageRoute(builder: (_) => const Login()));
+                          MaterialPageRoute(builder: (_) => const RootScteen()));
                     }
                   });
                 },

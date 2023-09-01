@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:planet_ui/Modules/onboarding_screen.dart';
+import 'package:planet_ui/Modules/root_screen.dart';
+import 'package:planet_ui/Screens/home_screen.dart';
 
 void main (){
   runApp(MyApp());
