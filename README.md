@@ -1,6 +1,11 @@
 # planet_ui
 
-A new Flutter project.
+As a plant enthusiast, I've been loving every moment spent practicing with the Plant UI App, which is built with Flutter! 🌿
+
+liberaries used :
+
+- Animated Bottom Navigation Bar
+- Page Transition
 
 # onboarding Screens
 ![image](https://github.com/HebaAshraf0/Plants-UI/assets/88686875/376a3c76-184e-4937-8cb3-f62908eadeb4) ![image](https://github.com/HebaAshraf0/Plants-UI/assets/88686875/b3ef0b99-f190-43a4-a428-a1667b517937) ![image](https://github.com/HebaAshraf0/Plants-UI/assets/88686875/c41bfd9c-6aab-4286-9233-4bd602681137)
